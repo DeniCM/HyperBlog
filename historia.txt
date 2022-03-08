@@ -4,4 +4,13 @@ en plazi con freedy vega
 el  3 de marzo del 22
 
 
+<<<<<<< HEAD
 experimeto 1
+=======
+
+experimeto 1
+
+
+
+experimento 2
+>>>>>>> c75ad3e (aregle el conficto)
